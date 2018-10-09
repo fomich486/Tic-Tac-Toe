@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: be241a5cc3f788d49b0dea0f4708272f
+timeCreated: 1539076113
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Archistico
+  fontNames:
+  - Archistico
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 641ef1d6f2d834944978dd776f8cae02, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
