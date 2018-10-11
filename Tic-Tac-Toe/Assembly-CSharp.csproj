@@ -51,6 +51,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\NetScripts\netController.cs" />
+     <Compile Include="Assets\NetScripts\PlayerScript.cs" />
+     <Compile Include="Assets\NetScripts\Try.cs" />
      <Compile Include="Assets\Scripts\Controller.cs" />
      <Compile Include="Assets\Scripts\TurnController.cs" />
  <Reference Include="UnityEngine.UI">

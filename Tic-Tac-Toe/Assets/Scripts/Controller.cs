@@ -2,8 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.Networking;
 
-public class Controller : MonoBehaviour {
+public class Controller :MonoBehaviour {
 	const int size = 3;
 	[SerializeField]
 	List<Text> txt;
